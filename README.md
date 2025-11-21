@@ -1,4 +1,6 @@
 
+# LINK DO GITHUB VERSION => https://github.com/MateoJimenezFamaArt/LowerNetTestVersion.git
+
  # Documentation of how to use the VoiceToTextProtocolClass method:
 
         1. Create a variable to hold the instance of the VoiceToTextProtocol class.
@@ -26,3 +28,4 @@
     5. On that line modify the string that is inside of the function voice.VoiceToTextProtocolCreator("");
     6. Paste your path there and make sure it looks something like this: "C:\\Users\\gd81mateo\\Desktop\\VFS_LOCAL\\Term 1\\Programing\\Deliverable1TestOnLowerNet\\VoskLite"
     7. Hit compile and this should work nicely
+
